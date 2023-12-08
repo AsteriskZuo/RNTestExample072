@@ -5822,8 +5822,10 @@ react-is@^17.0.1:
   resolved "https://registry.npmmirror.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
-"react-native-agora-chat-callkit@file:../../../Downloads/2023-12-07/react-native-agora-chat-callkit-1.0.0":
+react-native-agora-chat-callkit@1.0.0:
   version "1.0.0"
+  resolved "https://registry.npmmirror.com/react-native-agora-chat-callkit/-/react-native-agora-chat-callkit-1.0.0.tgz#782f67037128066e82d2d4bcdea7b93f5edb5dde"
+  integrity sha512-7kpni/lRNJuOR/Iy4eWlLR/Q/tqJk3e+LO236oDvBOucngSeWS3b/JGisn3LW0Ex/FBGk1wA2H2Nf86w/WlHQg==
   dependencies:
     "@react-native-camera-roll/camera-roll" "^5.6.0"
     "@react-native-community/blur" "^4.3.2"
@@ -5841,8 +5843,10 @@ react-is@^17.0.1:
     react-native-screens "^3.20.0"
     react-native-tab-view "^3.5.1"
 
-"react-native-agora-chat-uikit@file:../../../Downloads/2023-12-07/react-native-agora-chat-uikit-1.0.1":
+react-native-agora-chat-uikit@1.0.1:
   version "1.0.1"
+  resolved "https://registry.npmmirror.com/react-native-agora-chat-uikit/-/react-native-agora-chat-uikit-1.0.1.tgz#eff5a1565d788289530de4fd35deaf037bcd96e3"
+  integrity sha512-vB8xDEyZUnVjVGwD4sKQQjjFr9UNnfQHjiONjclfPzMRkoBrTVVVym+k2w6heKEDAm+R7xUPFyKL2hhe8mZK/Q==
   dependencies:
     "@easemob/react-native-create-thumbnail" "^1.6.4"
     "@react-native-async-storage/async-storage" "1.17.11"
